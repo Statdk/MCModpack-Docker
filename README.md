@@ -59,3 +59,8 @@ docker compose logs -f
 
 If you make changes to the Dockerfile, consider using the `--build` option
 
+# TODO
+- Finish README
+- Use jabba instead?
+- eula?
+
